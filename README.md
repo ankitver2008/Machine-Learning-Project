@@ -8,3 +8,16 @@ You work for an office transport company. You are in discussions with ABC Consul
 Objective:
 
 The objective is to build various Machine Learning models on this data set and based on the accuracy metrics decide which model is to be finalised for finally predicting the mode of transport chosen by the employee.
+
+Result:
+
+The EDA was conducted on the Data available, and the following Machine Learning models were built:
+
+1. Logistic regression Model
+2. Linear Discriminant Analysis
+3. Decision Tree - CART
+4. Random Forest Model
+5. KNN classifier model
+6. Boosting Classifier using XGboost
+
+The models were compared based on confusion matrix and ROC AUC curve.
